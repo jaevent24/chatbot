@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello"
+    },
+    {
+      "question": "& \"C:/Users/Jaeven T/AppData/Local/Microsoft/WindowsApps/python3.11.exe\" \"c:/Users/Jaeven T/Desktop/chatbot/main.py\"",
+      "answer": "& \"C:/Users/Jaeven T/AppData/Local/Microsoft/WindowsApps/python3.11.exe\" \"c:/Users/Jaeven T/Desktop/chatbot/main.py\""
+    },
+    {
+      "question": " Can you give me Jaeven's resume?",
+      "answer": "jaevent24.github.io"
+    }
+  ]
+}
